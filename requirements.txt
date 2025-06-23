@@ -6,5 +6,9 @@ catboost
 xgboost
 Flask
 seaborn
-
--e .
+dill
+FastAPI
+uvicorn
+requests
+streamlit
+pydantic
